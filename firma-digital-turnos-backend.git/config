@@ -1,8 +1,0 @@
-[core]
-	repositoryformatversion = 0
-	filemode = true
-	bare = true
-[remote "origin"]
-	url = git@gitlabssh-next.salta.gob.ar:spys/firma/firma-digital-turnos-backend.git
-	fetch = +refs/*:refs/*
-	mirror = true
